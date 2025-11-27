@@ -1,0 +1,36 @@
+Lexicora Design License (Custom License)
+Version 1.0 — 2025
+
+Copyright © 2025 Lexicora
+
+Permission is hereby granted to any individual or organization to use, copy, modify, and redistribute the design assets contained in this repository, provided that all such use is strictly non-commercial and that appropriate attribution is given to Lexicora.
+
+1. Non-Commercial Use
+You may use, copy, modify, or redistribute the design assets (logos, color palettes, typography guidelines, UI components, and related files) for personal, educational, or non-commercial projects.
+
+Commercial use — including but not limited to selling, embedding in commercial products, or using the assets to generate revenue — requires express written permission from Lexicora.
+
+To request permission for commercial use, contact:
+Email: TBD (Create Issue on this repository for now)
+
+2. Attribution
+Any redistribution or modification of these design assets must include clear attribution to Lexicora. At minimum, the following notice should remain in all copies or derivative works:
+
+Design assets are based on Lexicora’s branding.
+Copyright © 2025 Lexicora.
+Used under the Lexicora Design License.
+
+3. Share-Alike
+If you modify or create derivative works of these design assets, you must license your modifications under the same terms as this license.
+
+4. No Warranty
+THE DESIGN ASSETS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE USE OF THESE DESIGN ASSETS.
+
+5. Trademarks
+The names Lexicora and associated branding are trademarks of Lexicora. You may not use these names or logos for commercial purposes without permission, including on websites, products, or advertising.
+
+6. Scope
+This license applies only to the assets contained in the Lexicora Design repository. Other Lexicora products, such as the backend, web application, or extension code, may have different licensing terms.
+
+7. Termination
+Any violation of the terms of this license automatically terminates your rights to use these design assets.
