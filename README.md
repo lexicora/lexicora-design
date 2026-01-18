@@ -1,2 +1,2 @@
 # lexicora-design
-Central repository for the design (system) the Lexicora organization and its software
+Central repository for the design (system) of the Lexicora organization and its software
