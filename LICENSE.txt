@@ -1,37 +1,73 @@
 Lexicora Design License
-Version 1.1 — 2026
+Version 1.2 — 2026
 
 Copyright (c) 2025-2026 Lexicora / Timothy (@tgmaurer). All rights reserved.
 
-Permission is hereby granted to any individual or organization to use, copy, modify, merge, publish, and redistribute the design assets contained in this repository, provided that all such use is strictly non-commercial and that appropriate attribution is given to Lexicora.
+Permission is hereby granted to any individual or organization to use, copy, modify, merge, publish, and redistribute the Design Assets, provided that all such use is strictly non-commercial, that appropriate attribution is given to Lexicora, and that the Lexicora Brand Assets are used only as Section 4 allows.
+
+0. Definitions
+"Design Assets" means everything in this repository in any form: the logos, icons and store graphics, the color palette, typography guidelines, UI theme and components, and the accompanying documentation.
+
+"Brand Assets" means the subset of the Design Assets that identifies Lexicora: the name Lexicora, the logo and its variants, the icons, the tagline, and the store graphics. The color palette, typography guidelines, UI theme and documentation are not Brand Assets.
+
+"You" means the individual or organization exercising the permissions granted here.
+
+"Non-commercial" means use that is not primarily intended for or directed toward commercial advantage or monetary compensation. Personal, educational and research use is non-commercial. See Section 1 for what is not.
+
+"Contribution" means any work you intentionally submit for inclusion in the Design Assets, by pull request, patch, issue attachment or otherwise.
 
 1. Non-Commercial Use
-You may use, copy, modify, or redistribute the design assets (logos, color palettes, typography guidelines, UI components, and related files) for personal, educational, or research purposes, or within non-commercial projects. Commercial use is not permitted under this license. Commercial use includes, but is not limited to: selling the assets, integrating them into a commercial product or service, using them within a for-profit enterprise (even for internal purposes), or distributing them in any manner that generates revenue (including ad-supported platforms).
+You may use, copy, modify, or redistribute the Design Assets for personal, educational, or research purposes, or within non-commercial projects. Commercial use is not permitted under this license. Commercial use includes, but is not limited to: selling the Design Assets, integrating them into a commercial product or service, using them within a for-profit enterprise (even for internal purposes), bundling them with a paid offering, or distributing them in any manner that generates revenue (including ad-supported platforms).
+
+Using the Design Assets as an individual, for your own purposes, is non-commercial even if you happen to be employed.
 
 To request permission for commercial use, contact:
-Email: tgmaurer@icloud.com
+Email: hello@tgmaurer.dev
 
 2. Attribution
-Any redistribution or modification of these design assets must include clear and visible attribution to Lexicora. At minimum, the following notice must remain in all copies or substantial portions of the design assets:
+Any redistribution or modification of the Design Assets must include clear and visible attribution to Lexicora. At minimum, the following notice must remain in all copies or substantial portions of the Design Assets:
 
 These design assets are based on Lexicora's branding.
 Copyright (c) 2025-2026 Lexicora / Timothy (@tgmaurer). All rights reserved.
 Used under the Lexicora Design License.
 
 3. Share-Alike
-If you modify or create derivative works of these design assets, you must license your modifications under the same terms as this license.
+If you modify or create derivative works of the Design Assets, you must license your modifications under the same terms as this license. This does not apply to Brand Assets, which Section 4 does not allow you to build derivatives of in the first place.
 
-4. Disclaimer of Warranty
-THE DESIGN ASSETS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+4. Brand Assets
+The Brand Assets are the identity of Lexicora and are not free to use as your own. This license grants no right to use them, except:
 
-5. Limitation of Liability
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE DESIGN ASSETS OR THE USE OR OTHER DEALINGS IN THE DESIGN ASSETS.
+(a) the attribution required by Section 2;
+(b) ordinary descriptive reference to Lexicora, such as a link, a mention, or a screenshot in an article or review; and
+(c) unmodified copies of this repository.
 
-6. Trademarks
-The names Lexicora, Lexicora Design, and associated branding are trademarks of Lexicora. You may not use these names or branding for commercial purposes without permission.
+In particular, you may not use the Brand Assets as the name, logo, icon or branding of your own product, project, service, organization or extension, publish them to a browser extension store or comparable distribution channel, or alter them (recoloring, redrawing, cropping or combining them with other marks) in a way likely to suggest that your work is Lexicora or is endorsed by or affiliated with Lexicora. Anything you build from the rest of the Design Assets must be identifiably yours.
 
-7. Scope
-This license applies only to the assets contained within the Lexicora Design repository. Other Lexicora products, such as the backend, web application, or extension code, may use different licensing terms.
+5. Contributions
+Unless you state otherwise in writing when you submit it, you license each Contribution to Lexicora under the terms of this license, and additionally grant Lexicora a perpetual, worldwide, irrevocable, royalty-free right to use, modify, sublicense and distribute that Contribution under any terms, including commercial ones. You confirm that you are entitled to grant this.
 
-8. Termination
-Any violation of the terms of this license automatically terminates your rights to use the design assets.
+6. Third-Party Components
+Fonts, and any other third-party material referenced by the Design Assets, remain under their own licenses. Nothing in this license alters those terms, and nothing in those terms extends to the Design Assets themselves.
+
+7. Disclaimer of Warranty
+THE DESIGN ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE DESIGN ASSETS OR THE USE OR OTHER DEALINGS IN THE DESIGN ASSETS.
+
+9. Trademarks
+The names Lexicora, Lexicora Design, Lexicora Extension, and associated branding are trademarks of Lexicora. This license grants no right to use them, except as Section 4 allows.
+
+10. Scope
+This license applies only to the assets explicitly contained within the Lexicora Design repository. Other Lexicora products, such as the browser extension, backend, web application, or mobile clients, are licensed separately; the Lexicora Extension is available under the Lexicora Extension License, which is aligned with this one.
+
+Each version of the Design Assets is licensed under the license text distributed with it. Lexicora may release later versions under different terms; doing so does not change the terms of a version you already received.
+
+11. Termination
+Any violation of the terms of this license automatically terminates your rights to use the Design Assets. If the violation is one that can be put right and you do so within 30 days of becoming aware of it, your rights are reinstated, unless Lexicora has already terminated them in writing.
+
+12. Severability
+If any provision of this license is held unenforceable, it is to be applied as far as it can be, or severed if it cannot, and the remaining provisions stay in force.
+
+13. Governing Law
+This license is governed by the laws of Switzerland, without regard to its conflict of law rules.
